@@ -7,3 +7,5 @@ node_modules
 package-lock.json
 yarn.lock
 .vscode
+!packages/blockstore-s3/dist
+!packages/datastore-s3/dist
